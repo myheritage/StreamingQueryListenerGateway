@@ -1,7 +1,7 @@
 # StreamingQueryListenerGateway
 This project creates bridge for PySpark to use `StreamQueryListener` class from java in python. \
 In this article we explain and show examples of how to use this jar with PySpark project: 
-[Medium article]()
+[Medium article](https://medium.com/myheritage-engineering/guide-to-streamingquerylistener-in-pyspark-streaming-f3bbfe56a774)
 
 
 ## Dependencies
